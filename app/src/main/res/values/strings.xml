@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountUp-Timer-Service</string>
+    <string name="time">%02d:%02d:%02d</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "CountUp-Timer-Service"
+include ':app'
